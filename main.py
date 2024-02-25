@@ -1,6 +1,6 @@
 import os
 from PIL import Image #pentru parsarea fisierelor BMP
-import xml.etree.ElementTree as xml_tr #pentru parsarea fisierelor xml
+import xml.etree.ElementTree as xml_tr #pentru parsarea fisierelor xmllllllll
 
 
 class GenericFile: #clasa de baza
