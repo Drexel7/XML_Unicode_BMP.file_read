@@ -12,7 +12,7 @@ class GenericFile: #clasa de baza
 
 
 class TextASCII(GenericFile): #clasa derivata
-    path_absolut: str #atribut
+    path_absolut: str #atributtt
 
     def __init__(self, path_absolut): #constructor
         try:
