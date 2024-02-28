@@ -11,7 +11,7 @@ class GenericFile: #clasa de baza
         pass
 
 
-class TextASCII(GenericFile): #clasa derivata
+class TextASCII(GenericFile): #clasa derivataa
     path_absolut: str #atributtt
 
     def __init__(self, path_absolut): #constructor
